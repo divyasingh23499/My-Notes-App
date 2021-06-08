@@ -2,12 +2,10 @@
 
 
 ## Desciption
-
-This app is the extension / updated version of my previous app - https://github.com/tanishq1306/NotesApp. 
 You can use it to list your daily notes and tasks. 
 
 ## Features
-**Better & Simpler UI** built with **Room Database & Android Architecture Components (Android ViewModel, LiveData Architecture components).**
+**Simpler UI** built with **Room Database & Android Architecture Components (Android ViewModel, LiveData Architecture components).**
 
 
 Introduction
@@ -43,6 +41,3 @@ Room architecture can be defined as
 <img src = "https://github.com/tanishq1306/My_Notes_App/blob/master/ss/search.jpg" height=520, width = 275>
 
 -----------------------
-
-## Resources Used 
-google codelab - https://developer.android.com/codelabs/android-room-with-a-view#0
